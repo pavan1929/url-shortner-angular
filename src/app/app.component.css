@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+.url-input{
+  height: 30px;
+  border-radius: 5px;
+}
+.submit-btn{
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  margin:15px auto;
+}
